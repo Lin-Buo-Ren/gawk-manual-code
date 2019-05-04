@@ -1,3 +1,3 @@
-#!/usr/bin/gawk -E
+#!/usr/bin/gawk --exec
 
 BEGIN { print "Don't Panic!" }
